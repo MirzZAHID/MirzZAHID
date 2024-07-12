@@ -42,9 +42,9 @@ I'm passionate about building innovative web applications.
 ### 📬 Connect with Me
 
 <p>
-<a href="https://www.linkedin.com/in/zahid-hussain-16a4651bb/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="(https://www.linkedin.com/in/zahid-hussain-16a4651bb/)" height="30" width="40" /></a>
-<a href="(https://www.facebook.com/profile.php?id=100011404931992&mibextid=ZbWKwL)" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="(https://www.facebook.com/profile.php?id=100011404931992&mibextid=ZbWKwL)" height="30" width="40" /></a>
-<a href="(https://www.instagram.com/zahidmirza881?igsh=eDlpY3pkNXoyanpj)" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="(https://www.instagram.com/zahidmirza881?igsh=eDlpY3pkNXoyanpj)" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/zahid-hussain-16a4651bb/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zahid-hussain-16a4651bb/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100011404931992&mibextid=ZbWKwL" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100011404931992&mibextid=ZbWKwL" height="30" width="40" /></a>
+<a href="https://www.instagram.com/zahidmirza881?igsh=eDlpY3pkNXoyanpj" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/zahidmirza881?igsh=eDlpY3pkNXoyanpj" height="30" width="40" /></a>
 </p>
 
 ---
