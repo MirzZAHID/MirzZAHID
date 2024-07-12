@@ -9,7 +9,7 @@
 <p align="center">
 I'm passionate about building innovative web applications. 
 <br/>
-<img src="https://komarev.com/ghpvc/?username=askhan963&label=Profile%20views&color=0e75b6&style=flat" alt="askhan963" />
+<img src=["https://komarev.com/ghpvc/?](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Ffull-stack-web-development-anand-j-874zc&psig=AOvVaw10CyKYME4VLRUPo8KmTGof&ust=1720906546608000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKi0pM66oocDFQAAAAAdAAAAABAr)username=askhan963&label=Profile%20views&color=0e75b6&style=flat" alt="askhan963" />
 </p>
 
 ---
