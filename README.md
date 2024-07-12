@@ -3,7 +3,7 @@
 
 
 
-<h1 align="center">👋 Muhammad Awais Khan</h1>
+<h1 align="center">👋 ZAHID HUSSAIN</h1>
 <h3 align="center">🖥️ MERN Stack Developer | 🎓 CS Student</h3>
 
 <p align="center">
