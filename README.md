@@ -54,11 +54,23 @@ I'm passionate about building innovative web applications.
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=askhan963&show_icons=true&locale=en&layout=compact" alt="askhan963" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Skip to content
+Navigation Menu
+MirzZAHID&show_icons=true&locale=en&layout=compact" alt="Skip to content
+Navigation Menu
+MirzZAHID" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=askhan963&show_icons=true&locale=en" alt="askhan963" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Skip to content
+Navigation Menu
+MirzZAHID&show_icons=true&locale=en" alt="Skip to content
+Navigation Menu
+MirzZAHID" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=askhan963&" alt="askhan963" /></p> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Skip to content
+Navigation Menu
+MirzZAHID&" alt="Skip to content
+Navigation Menu
+MirzZAHID" /></p> 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&colors=%23FFB3BA,%239F5FEC&height=100&section=footer"/>
