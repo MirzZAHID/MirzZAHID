@@ -25,7 +25,7 @@ I'm passionate about building innovative web applications.
 
 ### 👨‍💻 Projects
 
-- **Portfolio** - [View Here](https://awaiskhanniazi.netlify.app/)
+
 - **Netflix Clone** - [View Here](https://adorable-biscochitos-00323b.netlify.app)
 - **React Calculator** - [View Here](https://statuesque-llama-4fdccc.netlify.app/)
 
