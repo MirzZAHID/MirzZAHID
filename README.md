@@ -27,7 +27,7 @@ I'm passionate about building innovative web applications.
 
 
 - **Netflix Clone** - [View Here](https://adorable-biscochitos-00323b.netlify.app)
-- **React Calculator** - [View Here](https://statuesque-llama-4fdccc.netlify.app/)
+- **React Calculator** - [View Here](https://multimode-calculator.vercel.app/)
 
 ---
 
